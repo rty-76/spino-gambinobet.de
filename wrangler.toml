@@ -1,0 +1,11 @@
+name = "spino-gambinobet-de"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spino-gambinobet.de"
+HMAC_KEY = "56a46b782065a960cd3d54e4f1aeab230b632a8dd3446780c275180a65daa41c"
+COOKIE_NAME = "bbl"
+PLAY_PATH = "launch"
+BUTTON_ID = "p65107b5f1e57c4d67131aec03e4485ef"
+GATE_SALT = "d2ce53a21b2b8499"
